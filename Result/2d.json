@@ -1,0 +1,104 @@
+{
+	"id": "fa649129-bbb3-4a70-978e-e810c5d8f0cc",
+	"name": "DeeplinkMS - Mandatory files",
+	"timestamp": "2021-05-03T20:35:57.123Z",
+	"collection_id": "6f31e49c-3b6b-4b2f-b987-aee3d0cce95f",
+	"folder_id": 0,
+	"environment_id": "45dea15b-606c-4c23-af52-f04cdeba00f4",
+	"totalPass": 15,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "62f9f858-474a-46c9-b949-706a06a1ee82",
+			"name": "Deeplink",
+			"time": 103,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request"
+			},
+			"tests": {
+				"TC1: Response Status = 400": true
+			},
+			"testPassFailCounts": {
+				"TC1: Response Status = 400": {
+					"pass": 15,
+					"fail": 0
+				}
+			},
+			"times": [
+				414,
+				114,
+				124,
+				113,
+				109,
+				110,
+				108,
+				127,
+				106,
+				120,
+				104,
+				131,
+				102,
+				105,
+				103
+			],
+			"allTests": [
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				},
+				{
+					"TC1: Response Status = 400": true
+				}
+			]
+		}
+	],
+	"count": 15,
+	"totalTime": 1990,
+	"collection": {
+		"requests": [
+			{
+				"id": "62f9f858-474a-46c9-b949-706a06a1ee82",
+				"method": "POST"
+			}
+		]
+	}
+}
