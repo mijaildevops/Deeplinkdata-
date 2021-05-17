@@ -1,0 +1,668 @@
+[
+    {
+        "tenant": "ac",
+        "body": {
+            "origin": null,
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": null,
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+     
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": null,
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+ 
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": null,
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+     
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": null,
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "",
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+
+            "travelClass": "E",
+            "siteEdition": "en-us",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition":  null,
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "",
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "ac",
+        "body": {
+            "origin": "CDG",
+            "originInfo": {
+                "country": {
+                    "isoCode": "FR"
+                }
+            },
+            "destination": "MEX",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "MX"
+                }
+            },
+            "departure": "2021-05-29",
+            "return": "2021-07-12",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+
+            "promoCode": "",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1,
+                "passenger4": 1,
+                "passenger5": 1
+            },
+            "extraInfo": {
+                "originLocationType": "A",
+                "destinationLocationType": "A",
+                "useMiles": true
+            },
+            "trackingParameters": {}
+        }
+    }
+]

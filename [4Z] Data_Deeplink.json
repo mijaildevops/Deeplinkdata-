@@ -1,6 +1,6 @@
 [
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":null,
          "destination":"BKK",
@@ -10,8 +10,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -27,7 +27,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"",
          "destination":"BKK",
@@ -37,8 +37,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -54,7 +54,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "destination":"BKK",
          "departure":"2021-03-15",
@@ -63,8 +63,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -80,7 +80,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"BKK",
          "destination":null,
@@ -90,8 +90,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -107,7 +107,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"BKK",
          "destination":"",
@@ -117,8 +117,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -134,7 +134,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"BKK",
          "departure":"2021-03-15",
@@ -143,8 +143,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -160,7 +160,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -170,8 +170,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -187,7 +187,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -197,8 +197,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -214,7 +214,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -224,8 +224,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -241,7 +241,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -251,8 +251,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -268,7 +268,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -278,8 +278,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -295,7 +295,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -305,8 +305,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -322,7 +322,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -332,8 +332,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -349,7 +349,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -359,8 +359,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
+         "countryCode":"en",
+         "device":"DESKTOP",
          "passengers":{
             "passenger1":4,
             "passenger2":3,
@@ -376,7 +376,7 @@
       }
    },
    {
-      "tenant":"av",
+      "tenant":"4z",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -386,170 +386,8 @@
          "travelClass":"E",
          "promoCode":"",
          "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"TABLET",
-         "passengers":{
-            "passenger1":4,
-            "passenger2":3,
-            "passenger3":2,
-            "passenger4":1
-         },
-         "extraInfo":{
-            "useMiles":false
-         },
-         "trackingParameters":{
-            
-         }
-      }
-   },
-   {
-      "tenant":"av",
-      "body":{
-         "origin":"MIA",
-         "destination":"BKK",
-         "departure":"2021-03-15",
-         "return":"2021-03-22",
-         "flightType":"ROUND_TRIP",
-         "travelClass":"E",
-         "promoCode":"",
-         "siteEdition":null,
-         "countryCode":"VN",
+         "countryCode":"en",
          "device":"DESKTOP",
-            "passengers":{
-            "passenger1":1,
-            "passenger2":1,
-            "passenger3":0,
-            "passenger4":0
-         },
-         "extraInfo":{
-            "useMiles":false
-         },
-         "trackingParameters":{
-            
-         }
-      }
-   },
-   {
-      "tenant":"av",
-      "body":{
-         "origin":"MIA",
-         "destination":"BKK",
-         "departure":"2021-03-15",
-         "return":"2021-03-22",
-         "flightType":"ROUND_TRIP",
-         "travelClass":"E",
-         "promoCode":"",
-         "siteEdition":"",
-         "countryCode":"VN",
-         "device":"DESKTOP",
-            "passengers":{
-            "passenger1":1,
-            "passenger2":1,
-            "passenger3":0,
-            "passenger4":0
-         },
-         "extraInfo":{
-            "useMiles":false
-         },
-         "trackingParameters":{
-            
-         }
-      }
-   },
-   {
-      "tenant":"av",
-      "body":{
-         "origin":"MIA",
-         "destination":"BKK",
-         "departure":"2021-03-15",
-         "return":"2021-03-22",
-         "flightType":"ROUND_TRIP",
-         "travelClass":"E",
-         "promoCode":"",
-
-         "countryCode":"VN",
-         "device":"DESKTOP",
-            "passengers":{
-            "passenger1":1,
-            "passenger2":1,
-            "passenger3":0,
-            "passenger4":0
-         },
-         "extraInfo":{
-            "useMiles":false
-         },
-         "trackingParameters":{
-            
-         }
-      }
-   },
-   {
-      "tenant":"av",
-      "body":{
-         "origin":"MIA",
-         "destination":"BKK",
-         "departure":"2021-03-15",
-         "return":"2021-03-22",
-         "flightType":"ROUND_TRIP",
-         "travelClass":"E",
-         "promoCode":"",
-         "siteEdition":"de",
-         "countryCode":"VN",
-         "device":null,
-         "passengers":{
-            "passenger1":4,
-            "passenger2":3,
-            "passenger3":2,
-            "passenger4":1
-         },
-         "extraInfo":{
-            "useMiles":false
-         },
-         "trackingParameters":{
-            
-         }
-      }
-   },
-   {
-      "tenant":"av",
-      "body":{
-         "origin":"MIA",
-         "destination":"BKK",
-         "departure":"2021-03-15",
-         "return":"2021-03-22",
-         "flightType":"ROUND_TRIP",
-         "travelClass":"E",
-         "promoCode":"",
-         "siteEdition":"de",
-         "countryCode":"VN",
-         "device":"",
-         "passengers":{
-            "passenger1":4,
-            "passenger2":3,
-            "passenger3":2,
-            "passenger4":1
-         },
-         "extraInfo":{
-            "useMiles":false
-         },
-         "trackingParameters":{
-            
-         }
-      }
-   },
-   {
-      "tenant":"av",
-      "body":{
-         "origin":"MIA",
-         "destination":"BKK",
-         "departure":"2021-03-15",
-         "return":"2021-03-22",
-         "flightType":"ROUND_TRIP",
-         "travelClass":"E",
-         "promoCode":"",
-         "siteEdition":"de",
-         "countryCode":"VN",
-
          "passengers":{
             "passenger1":4,
             "passenger2":3,

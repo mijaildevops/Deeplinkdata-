@@ -1,0 +1,422 @@
+[
+    {
+        "tenant": "jl",
+        "body": {
+            "origin": null,
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": null,
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "",
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": null,
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "",
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+
+            "return": "2021-06-18",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": null,
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": "",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+
+            "flightType": "ROUND_TRIP",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": null,
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+            "flightType": "",
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    },
+	{
+        "tenant": "jl",
+        "body": {
+            "origin": "EWR",
+            "originInfo": {
+                "extraInfo": {
+                    "market": "JAL_ER_UK"
+                }
+            },
+            "destination": "NRT",
+            "departure": "2021-05-27",
+            "return": "2021-06-18",
+
+            "travelClass": "B",
+            "siteEdition": "en-it",
+            "device": "DESKTOP",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 0,
+                "passenger3": 2,
+                "passenger4": 2
+            },
+            "extraInfo": {
+                "isFlexible": true
+            },
+            "trackingParameters": {}
+        }
+    }
+]

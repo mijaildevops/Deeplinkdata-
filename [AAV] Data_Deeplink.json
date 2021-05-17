@@ -1,0 +1,602 @@
+[
+    {
+        "tenant": "aav",
+        "body": {
+            "origin": null,
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "",
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": null,
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": null,
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": "",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": null,
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "",
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+
+            "returnTime": "17:00",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": null,
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+            "flightType": "",
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "aav",
+        "body": {
+            "origin": "JFK",
+            "destination": "MIA",
+            "departure": "2021-05-27",
+            "departureTime": "03:00",
+            "return": "2021-06-21",
+            "returnTime": "17:00",
+
+            "travelClass": "E",
+            "siteEdition": "en",
+            "passengers": {},
+            "extraInfo": {
+                "ADID": "EMAL-EEB-ARU-ALL-ALL"
+            },
+            "vacations": {
+                "flight": false,
+                "hotel": false,
+                "car": null,
+                "activity": false,
+                "numRooms": 2,
+                "rooms": [
+                    {
+                        "numAdults": 3,
+                        "numChildren": 2,
+                        "numInfantsInLaps": 1,
+                        "numInfantsInSeats": 0,
+                        "childAges": [
+                            4,
+                            11,
+                            2
+                        ]
+                    }
+                ],
+                "hotelId": 484642
+            },
+            "device": "DESKTOP"
+        }
+    }
+]

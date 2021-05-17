@@ -1,0 +1,451 @@
+[
+    {
+        "tenant": "gs",
+        "body": {
+            "origin": null,
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+ 
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": null,
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": null,
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "",
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+
+            "return": "2021-06-06",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": null,
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "",
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+ 
+            "flightType": "ROUND_TRIP",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": null,
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "flightType": "",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    },
+	{
+        "tenant": "gs",
+        "body": {
+            "origin": "XIY",
+            "originInfo": {
+                "country": {
+                    "isoCode": "US"
+                }
+            },
+            "destination": "HND",
+            "destinationInfo": {
+                "country": {
+                    "isoCode": "CN"
+                }
+            },
+            "departure": "2021-05-24",
+            "return": "2021-06-06",
+            "travelClass": "F",
+            "siteEdition": "en-gb",
+            "passengers": {
+                "passenger1": 1,
+                "passenger2": 1,
+                "passenger3": 1
+            },
+            "extraInfo": {},
+            "trackingParameters": {},
+            "device": "DESKTOP"
+        }
+    }
+]
