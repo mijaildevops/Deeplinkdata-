@@ -1,6 +1,6 @@
 [
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":null,
          "destination":"BKK",
@@ -27,7 +27,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"",
          "destination":"BKK",
@@ -54,7 +54,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "destination":"BKK",
          "departure":"2021-03-15",
@@ -79,10 +79,88 @@
          }
       }
    },
-   
-   
    {
-      "tenant":"ey",
+      "tenant":"ai",
+      "body":{
+         "origin":"BKK",
+         "destination":null,
+         "departure":"2021-03-15",
+         "return":"2021-03-22",
+         "flightType":"ROUND_TRIP",
+         "travelClass":"E",
+         "promoCode":"",
+         "siteEdition":"de",
+         "countryCode":"VN",
+         "device":"TABLET",
+         "passengers":{
+            "passenger1":4,
+            "passenger2":3,
+            "passenger3":2,
+            "passenger4":1
+         },
+         "extraInfo":{
+            "useMiles":false
+         },
+         "trackingParameters":{
+            
+         }
+      }
+   },
+   {
+      "tenant":"ai",
+      "body":{
+         "origin":"BKK",
+         "destination":"",
+         "departure":"2021-03-15",
+         "return":"2021-03-22",
+         "flightType":"ROUND_TRIP",
+         "travelClass":"E",
+         "promoCode":"",
+         "siteEdition":"de",
+         "countryCode":"VN",
+         "device":"TABLET",
+         "passengers":{
+            "passenger1":4,
+            "passenger2":3,
+            "passenger3":2,
+            "passenger4":1
+         },
+         "extraInfo":{
+            "useMiles":false
+         },
+         "trackingParameters":{
+            
+         }
+      }
+   },
+   {
+      "tenant":"ai",
+      "body":{
+         "origin":"BKK",
+         "departure":"2021-03-15",
+         "return":"2021-03-22",
+         "flightType":"ROUND_TRIP",
+         "travelClass":"E",
+         "promoCode":"",
+         "siteEdition":"de",
+         "countryCode":"VN",
+         "device":"TABLET",
+         "passengers":{
+            "passenger1":4,
+            "passenger2":3,
+            "passenger3":2,
+            "passenger4":1
+         },
+         "extraInfo":{
+            "useMiles":false
+         },
+         "trackingParameters":{
+            
+         }
+      }
+   },
+   {
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -109,7 +187,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -136,7 +214,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -163,7 +241,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -190,7 +268,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -217,7 +295,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -244,7 +322,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -271,7 +349,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -298,7 +376,7 @@
       }
    },
    {
-      "tenant":"ey",
+      "tenant":"ai",
       "body":{
          "origin":"MIA",
          "destination":"BKK",
@@ -324,4 +402,5 @@
          }
       }
    }
+   
 ]
